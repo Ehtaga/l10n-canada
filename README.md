@@ -8,3 +8,8 @@ Dependencies
 ------------
 * python
      * num2words
+
+
+Translation Status
+------------------
+[![Transifex Status](https://www.transifex.com/projects/p/Ehtaga-l10n-canada-8-0/chart/image_png)](https://www.transifex.com/projects/p/Ehtaga-l10n-canada-8-0)
